@@ -1,0 +1,17 @@
+# Python Automation with Selenium - Requirements
+# Install all dependencies with: pip install -r requirements.txt
+
+# Core dependency
+selenium>=4.0.0
+
+# WebDriver manager (recommended for easier setup)
+webdriver-manager>=4.0.0
+
+# Optional: for better browser support
+# Chrome WebDriver support (if you want to use Chrome instead of Firefox)
+# webdriver-manager includes this
+
+# Optional: for enhanced functionality
+# pytest>=7.0.0  # For test framework
+# pytest-selenium>=4.0.0  # Selenium plugin for pytest
+
